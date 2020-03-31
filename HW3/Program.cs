@@ -16,6 +16,8 @@ namespace Homework_Theme_03
 
             string nickuser1, nickuser2; //обозначение переменной
 
+            char again = 'y';
+
             Console.WriteLine("Игрок 1, введите свой никнейм");
             nickuser1 = Console.ReadLine(); //ввод с клавиатуры
 
@@ -24,33 +26,40 @@ namespace Homework_Theme_03
 
             bool f = true; // если f==true, ходит первый игрок, f==false - второй
 
-            Random rand = new Random(); // генератор случайных чисел
-            int gameNumber = rand.Next(12, 121), userTry; // случайное число
+            while (again == 'y')
 
-            Console.WriteLine($"Поочередно вычитайте числа от 1 до 4.");
-
-            do
             {
-                Console.WriteLine(gameNumber);
-                Console.WriteLine("{0}, ваш ход", f ? nickuser1 : nickuser2);
+                Random rand = new Random(); // генератор случайных чисел
+                int gameNumber = rand.Next(12, 121), userTry; // случайное число
 
-                userTry = int.Parse(Console.ReadLine()); //конвертация
-                while (!(userTry >= 1 && userTry <= 4))
+            
+                Console.WriteLine($"Поочередно вычитайте числа от 1 до 4.");
+
+                do
                 {
-                    Console.WriteLine("Некорректный ход! {0}, повторите ввод", f ? nickuser1 : nickuser2);
-                    userTry = int.Parse(Console.ReadLine());
+                    Console.WriteLine(gameNumber);
+                    Console.WriteLine("{0}, ваш ход", f ? nickuser1 : nickuser2);
+
+                    userTry = int.Parse(Console.ReadLine()); //конвертация
+                    while (!(userTry >= 1 && userTry <= 4))
+                    {
+                        Console.WriteLine("Некорректный ход! {0}, повторите ввод", f ? nickuser1 : nickuser2);
+                        userTry = int.Parse(Console.ReadLine());
+                    }
+                    gameNumber -= userTry;
+                    f = !f;
+
+
                 }
-                gameNumber -= userTry;
-                f = !f;
+                while (gameNumber > 0);
 
-
+                Console.WriteLine(0);
+                Console.WriteLine("{0} Поздравляем с победой!", f ? nickuser2 : nickuser1);
+                Console.WriteLine("Попробовать еще? (y = Да, n = Нет)");
+                again = Convert.ToChar(Console.ReadLine());
             }
-            while (gameNumber > 0);
+                Console.ReadKey();
 
-            Console.WriteLine(0);
-            Console.WriteLine("{0} Поздравляем с победой!", f ? nickuser2 : nickuser1);
-            Console.ReadKey();
-           
 
 
 

@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.exe
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.deps.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\FirstSimpleGame.pdb
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\FirstSimpleGame.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\FirstSimpleGame.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\FirstSimpleGame.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\FirstSimpleGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\FirstSimpleGame.pdb
