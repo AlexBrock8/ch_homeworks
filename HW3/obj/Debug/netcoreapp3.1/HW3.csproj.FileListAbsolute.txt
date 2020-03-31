@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.exe
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.deps.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\bin\Debug\netcoreapp3.1\HW3.pdb
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HW3\obj\Debug\netcoreapp3.1\HW3.pdb

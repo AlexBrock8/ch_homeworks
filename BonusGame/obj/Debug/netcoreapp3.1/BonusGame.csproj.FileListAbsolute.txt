@@ -1,0 +1,10 @@
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.exe
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.deps.json
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\bin\Debug\netcoreapp3.1\BonusGame.pdb
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\obj\Debug\netcoreapp3.1\BonusGame.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\obj\Debug\netcoreapp3.1\BonusGame.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\obj\Debug\netcoreapp3.1\BonusGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\BonusGame\obj\Debug\netcoreapp3.1\BonusGame.pdb

@@ -1,0 +1,11 @@
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.exe
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.deps.json
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.runtimeconfig.json
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.runtimeconfig.dev.json
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\bin\Debug\netcoreapp3.1\ThirdHardBonusGame.pdb
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\obj\Debug\netcoreapp3.1\ThirdHardBonusGame.csprojAssemblyReference.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\obj\Debug\netcoreapp3.1\ThirdHardBonusGame.AssemblyInfoInputs.cache
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\obj\Debug\netcoreapp3.1\ThirdHardBonusGame.AssemblyInfo.cs
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\obj\Debug\netcoreapp3.1\ThirdHardBonusGame.dll
+D:\Unity\game\Skillbox\Csharp\HW3\HardBonusGame\obj\Debug\netcoreapp3.1\ThirdHardBonusGame.pdb
